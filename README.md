@@ -16,8 +16,10 @@ SearchCast is an AI-powered assistant built with **LangChain** and **OpenAI**, d
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/raghavpatidarr/searchcast.git
+## git clone
+ https://github.com/raghavpatidarr/searchcast.git
 cd searchcast
+## install requirements
 pip install -r requirements.txt
 
 ## ⚡ Usage
