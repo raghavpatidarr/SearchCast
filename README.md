@@ -8,6 +8,9 @@ SearchCast is an AI-powered assistant built with **LangChain** and **OpenAI**, d
 - 🧠 **ReAct Agent** – Reasons step by step, choosing when to use search or weather tools.  
 - 🔗 **LangChain Integration** – Demonstrates how to combine LLMs with external tools.
 
+![Demo](searchcast.jpg)
+
+
 ## 🛠️ Tech Stack
 - [LangChain](https://www.langchain.com/)  
 - [OpenAI Chat Models](https://platform.openai.com/)  
