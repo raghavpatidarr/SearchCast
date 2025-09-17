@@ -38,10 +38,3 @@ Example:
 Input: "Find the capital of Madhya Pradesh, then find its current weather condition"
 Output: "The capital of Madhya Pradesh is Bhopal. The current weather in Bhopal is ..."
 
-📌 Future Improvements
-
-Add memory to maintain conversations.
-
-Support more APIs (news, finance, etc.).
-
-Deploy as a chatbot/web app.
